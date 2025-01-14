@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 👋 I’m **Arghya Sinha**.
+- 🎓 I am a **Research Scholar** in the **Department of Computational and Data Science** at **IISc Bangalore**.
 <!--
 **arghyasinha/arghyasinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
